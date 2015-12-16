@@ -1,0 +1,7 @@
+Project,labels,Environment,Summary,IssueType,Priority,Description
+Project1,WEB,web,Create Home Page,10000,20000,Create Home Page
+Project1,WEB,web,Create Contact Us Page,10000,20000,Create Contact Us Page
+Project1,WEB,web,Create About Us Page,10000,20000,Create About Us Page
+Project1,DB,web,Create Database,10000,20000,Create Database
+Project1,DB,web,Create Tables,10000,20000,Create Tables
+Project1,ADMIN,web,Setup Server,10000,20000,Setup Server
